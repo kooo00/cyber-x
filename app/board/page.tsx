@@ -67,10 +67,10 @@ export default function BoardPage() {
             padding: "20px",
           }}
         >
-          <button style={menuButton}>掲示板</button>
-          <button style={menuButton}>イベント</button>
-          <button style={menuButton}>マイページ</button>
-          <button style={menuButton}>設定</button>
+          <button style={menuButton}><a href="/board" style={menuButton}>掲示板</a></button>
+          <button style={menuButton}><a href="/events" style={menuButton}>イベント</a></button>
+          <button style={menuButton}><a href="/mypage" style={menuButton}>マイページ</a></button>
+          <button style={menuButton}><a href="/settings" style={menuButton}>設定</a></button>
         </aside>
 
         {/* 投稿一覧 */}

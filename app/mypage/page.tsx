@@ -55,7 +55,6 @@ export default function MyPage() {
 
             <div>
               <h3>山田 太郎</h3>
-              <p>sample@example.com</p>
               <p>１年</p>
             </div>
 
