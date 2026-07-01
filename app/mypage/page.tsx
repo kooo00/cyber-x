@@ -9,7 +9,7 @@ export default function MyPage() {
     >
       {/* ヘッダー */}
       <header style={headerStyle}>
-        <h1 style={{ margin: 0 }}>サイト名</h1>
+        <h1 style={{ margin: 0 }}>Cyber-x</h1>
 
         <input
           type="text"
